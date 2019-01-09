@@ -1,14 +1,14 @@
 {
-  "name": "drumKit-and-synth",
+  "name": "Insert name project here",
   "version": "1.0.0",
-  "description": "A DrumKit and Synth experiment by Lic. Israel Umaña Sedó",
+  "description": "Insert a project description here",
   "scripts": {
     "build": "webpack --config webpack/webpack.config.prod.js  --colors",
     "start": "webpack-dev-server --open --config webpack/webpack.config.dev.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esreal12/drumkit-synth-experiment.git"
+    "url": "git+https://github.com/esreal12/master_init"
   },
   "keywords": [
     "webpack",
@@ -17,8 +17,8 @@
     "es6",
     "javascript"
   ],
-  "author": "Israel Umaña Sedó",
-  "license": "Mozilla Public License 2.0",
+  "author": "A. Israel Umaña Sedó",
+  "license": "The MIT License",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
@@ -39,7 +39,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.21.0",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": ">=3.1.11",
+    "webpack-dev-server": "^3.1.9",
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
